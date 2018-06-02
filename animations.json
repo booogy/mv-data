@@ -125,21 +125,57 @@
 			}
 		},
 		{
-			"job": [],
+			"job": [
+				"1",
+				"7",
+				"13",
+				"4002",
+				"4024",
+				"4008",
+				"4030",
+				"4014",
+				"4036",
+				"4054",
+				"4060",
+				"4096",
+				"4080"
+			],
 			"animation": [
 				{
 					"weapon": [
 						{
-							"hasShield": false,
-							"hasMount": false,
+							"hasShield": true,
 							"weaponType": [
-								{}
-							]
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								},
+								{
+									"value": "3"
+								},
+								{
+									"value": "4"
+								},
+								{
+									"value": "6"
+								},
+								{
+									"value": "8"
+								}
+							],
+							"hasMount": true,
+							"action": "wait"
 						}
 					]
+				},
+				{
+					"weapon": []
 				}
 			],
-			"mountTransform": {
+			"editTransform": false,
+			"transform": {
 				"0": {
 					"position": {
 						"0": 0,
@@ -159,23 +195,23 @@
 				},
 				"1": {
 					"position": {
-						"0": 0,
-						"1": 0,
-						"2": 0
+						"0": -0.061,
+						"1": -0.029,
+						"2": 0.009
 					},
 					"rotation": {
-						"0": 0,
-						"1": 0,
-						"2": 0
+						"0": -24.437,
+						"1": -91.37601,
+						"2": -12.802
 					},
 					"scale": {
-						"0": 1,
-						"1": 1,
-						"2": 1
+						"0": 0.6,
+						"1": 0.6,
+						"2": 0.6
 					}
 				}
 			},
-			"transform": {
+			"mountTransform": {
 				"0": {
 					"position": {
 						"0": 0,
