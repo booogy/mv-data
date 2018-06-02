@@ -23,22 +23,7 @@
 							"hasShield": true,
 							"weaponType": [
 								{
-									"value": "1"
-								},
-								{
-									"value": "2"
-								},
-								{
-									"value": "3"
-								},
-								{
-									"value": "4"
-								},
-								{
-									"value": "6"
-								},
-								{
-									"value": "8"
+									"value": "31"
 								}
 							],
 							"hasMount": false,
@@ -121,22 +106,7 @@
 							"hasMount": true,
 							"weaponType": [
 								{
-									"value": "1"
-								},
-								{
-									"value": "2"
-								},
-								{
-									"value": "3"
-								},
-								{
-									"value": "4"
-								},
-								{
-									"value": "6"
-								},
-								{
-									"value": "8"
+									"value": "31"
 								}
 							],
 							"action": "ride_wait",
@@ -409,7 +379,100 @@
 					"value": "1"
 				},
 				{
-					"weapon": []
+					"weapon": [
+						{
+							"hasShield": true,
+							"hasMount": true,
+							"weaponType": [
+								{},
+								{}
+							],
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						}
+					],
+					"value": "4"
+				},
+				{
+					"weapon": [
+						{
+							"hasShield": false,
+							"hasMount": false,
+							"weaponType": [
+								{}
+							],
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						}
+					]
 				}
 			],
 			"editTransform": false,
