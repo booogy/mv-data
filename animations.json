@@ -42,31 +42,39 @@
 					"weapon": [
 						{
 							"action": "walk",
-							"hasShield": false
+							"hasShield": false,
+							"value": []
 						},
 						{
 							"action": "walk_Spear",
 							"hasShield": true,
-							"value": "4"
+							"value": [
+								"4"
+							]
 						},
 						{
 							"action": "walk_Spear",
 							"hasShield": false,
-							"value": "5"
+							"value": [
+								"5"
+							]
 						},
 						{
 							"action": "walk_HandIn",
 							"hasShield": true,
-							"value": "1"
+							"value": [
+								"1",
+								"2",
+								"6",
+								"8"
+							]
 						},
 						{
-							"hasShield": true,
-							"value": "2",
-							"action": "walk_InHand"
-						},
-						{
-							"hasShield": true,
-							"value": "6",
+							"hasShield": false,
+							"value": [
+								"3",
+								"7"
+							],
 							"action": "walk_InHand"
 						}
 					]
@@ -113,11 +121,13 @@
 					"weapon": [
 						{
 							"action": "6",
-							"hasShield": false
+							"hasShield": false,
+							"value": []
 						},
 						{
 							"action": "7",
-							"hasShield": false
+							"hasShield": false,
+							"value": []
 						}
 					]
 				}
