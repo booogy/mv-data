@@ -438,6 +438,70 @@
 							"action": "walk"
 						},
 						{
+							"hasShield": false,
+							"hasMount": false,
+							"weaponType": [
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								},
+								{
+									"value": "3"
+								},
+								{
+									"value": "6"
+								},
+								{
+									"value": "7"
+								},
+								{
+									"value": "8"
+								},
+								{
+									"value": "9"
+								}
+							],
+							"action": "walk_HandIn",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": -24.437,
+										"1": -91.37601,
+										"2": -12.802
+									},
+									"scale": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									}
+								}
+							}
+						},
+						{
 							"hasShield": true,
 							"hasMount": false,
 							"weaponType": [
