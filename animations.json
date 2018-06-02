@@ -2,11 +2,11 @@
 	"group": [
 		{
 			"job": [
-				"1"
+				"3",
+				"5",
+				"7"
 			],
-			"animation": [
-				"2"
-			],
+			"animation": [],
 			"position": {
 				"0": 0,
 				"1": 0,
