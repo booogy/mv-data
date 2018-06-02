@@ -34,6 +34,10 @@
 				{
 					"value": "1",
 					"action": "walk"
+				},
+				{
+					"value": "2",
+					"action": "sit"
 				}
 			],
 			"position": {
