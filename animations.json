@@ -438,7 +438,7 @@
 							"action": "walk"
 						},
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"weaponType": [
 								{
