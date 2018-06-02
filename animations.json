@@ -32,6 +32,7 @@
 			],
 			"animation": [
 				{
+					"value": "1",
 					"action": "walk"
 				}
 			],
