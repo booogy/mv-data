@@ -8,7 +8,8 @@
 			],
 			"animation": [
 				{
-					"action": "attack"
+					"action": "attack",
+					"weapon": []
 				}
 			],
 			"position": {
@@ -37,15 +38,23 @@
 			"animation": [
 				{
 					"value": "1",
-					"action": "walk"
+					"action": "walk",
+					"weapon": [
+						"1",
+						"2",
+						"4",
+						"5"
+					]
 				},
 				{
 					"value": "2",
-					"action": "attack"
+					"action": "attack",
+					"weapon": []
 				},
 				{
 					"value": "2",
-					"action": "attack_Spear"
+					"action": "attack_Spear",
+					"weapon": []
 				}
 			],
 			"position": {
@@ -64,6 +73,39 @@
 				"2": 1
 			},
 			"hasShield": true
+		},
+		{
+			"job": [
+				"4",
+				"5",
+				"6"
+			],
+			"hasShield": true,
+			"animation": [
+				{
+					"value": "2",
+					"action": "ride_walk",
+					"weapon": [
+						"6",
+						"7"
+					]
+				}
+			],
+			"position": {
+				"0": 2,
+				"1": 200,
+				"2": 400
+			},
+			"rotation": {
+				"0": 0,
+				"1": 0,
+				"2": 0
+			},
+			"scale": {
+				"0": 1,
+				"1": 1,
+				"2": 1
+			}
 		}
 	]
 }
