@@ -106,7 +106,7 @@
 							"hasMount": true,
 							"weaponType": [
 								{
-									"value": "31"
+									"value": "0"
 								}
 							],
 							"action": "ride_wait",
@@ -174,6 +174,55 @@
 										"0": -42.245,
 										"1": -136.023,
 										"2": 33.318
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								}
+							}
+						},
+						{
+							"hasShield": true,
+							"hasMount": true,
+							"weaponType": [
+								{
+									"value": "4"
+								},
+								{
+									"value": "5"
+								}
+							],
+							"action": "ride_attack_wait_Spear",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": -0.029,
+										"1": 0.118,
+										"2": 0.03
+									},
+									"rotation": {
+										"0": -29.125,
+										"1": -127.307,
+										"2": 28.538
 									},
 									"scale": {
 										"0": 0.6,
