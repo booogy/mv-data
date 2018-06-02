@@ -27,7 +27,44 @@
 				"1": 1,
 				"2": 1
 			},
-			"hasShield": false
+			"hasShield": false,
+			"editTransform": false,
+			"transform": {
+				"0": {
+					"position": {
+						"0": 100,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				},
+				"1": {
+					"position": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				}
+			}
 		},
 		{
 			"job": [
@@ -43,13 +80,19 @@
 						{
 							"action": "walk",
 							"hasShield": false,
-							"value": []
+							"value": [],
+							"weaponType": [
+								{}
+							]
 						},
 						{
 							"action": "walk_Spear",
 							"hasShield": true,
 							"value": [
 								"4"
+							],
+							"weaponType": [
+								{}
 							]
 						},
 						{
@@ -57,6 +100,9 @@
 							"hasShield": false,
 							"value": [
 								"5"
+							],
+							"weaponType": [
+								{}
 							]
 						},
 						{
@@ -67,6 +113,9 @@
 								"2",
 								"6",
 								"8"
+							],
+							"weaponType": [
+								{}
 							]
 						},
 						{
@@ -75,7 +124,10 @@
 								"3",
 								"7"
 							],
-							"action": "walk_InHand"
+							"action": "walk_InHand",
+							"weaponType": [
+								{}
+							]
 						}
 					]
 				},
@@ -105,7 +157,44 @@
 				"1": 1,
 				"2": 1
 			},
-			"hasShield": true
+			"hasShield": true,
+			"editTransform": false,
+			"transform": {
+				"0": {
+					"position": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				},
+				"1": {
+					"position": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				}
+			}
 		},
 		{
 			"job": [
@@ -122,12 +211,18 @@
 						{
 							"action": "6",
 							"hasShield": false,
-							"value": []
+							"value": [],
+							"weaponType": [
+								{}
+							]
 						},
 						{
 							"action": "7",
 							"hasShield": false,
-							"value": []
+							"value": [],
+							"weaponType": [
+								{}
+							]
 						}
 					]
 				}
@@ -146,6 +241,43 @@
 				"0": 1,
 				"1": 1,
 				"2": 1
+			},
+			"editTransform": false,
+			"transform": {
+				"0": {
+					"position": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				},
+				"1": {
+					"position": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"rotation": {
+						"0": 0,
+						"1": 0,
+						"2": 0
+					},
+					"scale": {
+						"0": 1,
+						"1": 1,
+						"2": 1
+					}
+				}
 			}
 		}
 	]
