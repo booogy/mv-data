@@ -6,7 +6,11 @@
 				"5",
 				"7"
 			],
-			"animation": [],
+			"animation": [
+				{
+					"action": "attack"
+				}
+			],
 			"position": {
 				"0": 0,
 				"1": 0,
@@ -37,7 +41,11 @@
 				},
 				{
 					"value": "2",
-					"action": "sit"
+					"action": "attack"
+				},
+				{
+					"value": "2",
+					"action": "attack_Spear"
 				}
 			],
 			"position": {
