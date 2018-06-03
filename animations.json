@@ -945,9 +945,11 @@
 										"2": 0.6
 									}
 								}
-							}
+							},
+							"action": "touch_low"
 						}
-					]
+					],
+					"value": "4"
 				}
 			],
 			"editTransform": false,
