@@ -7771,16 +7771,62 @@
 					]
 				},
 				{
+					"value": "4",
 					"weapon": [
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
 							"weaponType": [
-								{}
+								{
+									"value": "8"
+								},
+								{
+									"value": "9"
+								},
+								{
+									"value": "10"
+								}
 							],
+							"action": "attack_wait",
 							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": -15.262,
+										"1": -82.842,
+										"2": -16.047
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								},
+								"1": {
+									"position": {
+										"0": -0.055,
+										"1": -0.08,
+										"2": 0.027
+									},
+									"rotation": {
+										"0": 25.567,
+										"1": -33.241,
+										"2": -109.313
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								}
+							},
+							"mountTransform": {
 								"0": {
 									"position": {
 										"0": 0,
@@ -7813,6 +7859,93 @@
 										"0": 1,
 										"1": 1,
 										"2": 1
+									}
+								}
+							},
+							"playerTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						},
+						{
+							"hasShield": true,
+							"hasMount": false,
+							"applyTransformToMount": false,
+							"applyTransformToPlayer": false,
+							"weaponType": [
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								}
+							],
+							"action": "attack_wait_Knife",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": -15.262,
+										"1": -82.842,
+										"2": -16.047
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								},
+								"1": {
+									"position": {
+										"0": -0.055,
+										"1": -0.08,
+										"2": 0.027
+									},
+									"rotation": {
+										"0": 25.567,
+										"1": -33.241,
+										"2": -109.313
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
 									}
 								}
 							},
