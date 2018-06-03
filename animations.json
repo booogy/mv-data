@@ -854,55 +854,6 @@
 					"value": "2"
 				},
 				{
-					"value": "3",
-					"weapon": [
-						{
-							"hasShield": true,
-							"hasMount": false,
-							"weaponType": [
-								{}
-							],
-							"transform": {
-								"0": {
-									"position": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									},
-									"rotation": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									},
-									"scale": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									}
-								},
-								"1": {
-									"position": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									},
-									"rotation": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									},
-									"scale": {
-										"0": 0,
-										"1": 0,
-										"2": 0
-									}
-								}
-							},
-							"action": "touch_low"
-						}
-					]
-				},
-				{
 					"weapon": [
 						{
 							"hasShield": true,
@@ -951,7 +902,7 @@
 							"action": "touch_low"
 						}
 					],
-					"value": "4"
+					"value": "3"
 				}
 			],
 			"editTransform": false,
