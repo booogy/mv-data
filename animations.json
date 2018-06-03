@@ -908,7 +908,9 @@
 							"hasShield": true,
 							"hasMount": false,
 							"weaponType": [
-								{}
+								{
+									"value": "31"
+								}
 							],
 							"transform": {
 								"0": {
