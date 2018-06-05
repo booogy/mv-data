@@ -15765,16 +15765,273 @@
 					]
 				},
 				{
-					"value": "4",
+					"value": "5",
 					"weapon": [
+						{
+							"hasShield": true,
+							"hasMount": false,
+							"applyTransformToMount": false,
+							"applyTransformToPlayer": false,
+							"weaponType": [
+								{
+									"value": "31"
+								}
+							],
+							"action": "attack",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": -22.159,
+										"1": -120.787,
+										"2": -75.583
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 22.297,
+										"1": -141.194,
+										"2": -94.344
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								}
+							},
+							"mountTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"playerTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						}
+					]
+				},
+				{
+					"value": "6",
+					"weapon": [
+						{
+							"hasShield": true,
+							"hasMount": false,
+							"applyTransformToMount": false,
+							"applyTransformToPlayer": false,
+							"weaponType": [
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								},
+								{
+									"value": "6"
+								},
+								{
+									"value": "8"
+								}
+							],
+							"action": "hit",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": -22.159,
+										"1": -120.787,
+										"2": -75.583
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 22.297,
+										"1": -141.194,
+										"2": -94.344
+									},
+									"scale": {
+										"0": 0.6,
+										"1": 0.6,
+										"2": 0.6
+									}
+								}
+							},
+							"mountTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"playerTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						},
 						{
 							"hasShield": false,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
 							"weaponType": [
-								{}
+								{
+									"value": "11"
+								}
 							],
+							"action": "hit_Bow",
 							"transform": {
 								"0": {
 									"position": {
