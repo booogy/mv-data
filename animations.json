@@ -14997,13 +14997,17 @@
 			"job": [
 				"6",
 				"4007",
-				"4029"
+				"4029",
+				"12",
+				"4035",
+				"4013"
 			],
 			"animation": [
 				{
+					"value": "4",
 					"weapon": [
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
@@ -15035,9 +15039,9 @@
 										"2": 0
 									},
 									"rotation": {
-										"0": 0,
-										"1": 0,
-										"2": 0
+										"0": 22.297,
+										"1": -141.194,
+										"2": -94.344
 									},
 									"scale": {
 										"0": 1,
