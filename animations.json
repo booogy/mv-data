@@ -20743,12 +20743,32 @@
 					"value": "8",
 					"weapon": [
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
 							"weaponType": [
-								{}
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								},
+								{
+									"value": "3"
+								},
+								{
+									"value": "6"
+								},
+								{
+									"value": "7"
+								},
+								{
+									"value": "8"
+								},
+								{
+									"value": "9"
+								}
 							],
 							"transform": {
 								"0": {
@@ -20850,6 +20870,268 @@
 										"0": 0,
 										"1": 0,
 										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"action": "feign_death"
+						},
+						{
+							"hasShield": true,
+							"hasMount": true,
+							"applyTransformToMount": true,
+							"applyTransformToPlayer": true,
+							"weaponType": [
+								{
+									"value": "1"
+								},
+								{
+									"value": "2"
+								},
+								{
+									"value": "3"
+								},
+								{
+									"value": "6"
+								},
+								{
+									"value": "7"
+								},
+								{
+									"value": "8"
+								},
+								{
+									"value": "9"
+								}
+							],
+							"action": "feign_death",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"mountTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": -80
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": -80
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"playerTransform": {
+								"0": {
+									"position": {
+										"0": 0.239,
+										"1": 0.104,
+										"2": -0.13
+									},
+									"rotation": {
+										"0": -90,
+										"1": 0,
+										"2": 90
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0.216,
+										"1": 0.547,
+										"2": -0.303
+									},
+									"rotation": {
+										"0": -119.636,
+										"1": -1.612,
+										"2": 91.849
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							}
+						},
+						{
+							"hasShield": true,
+							"hasMount": true,
+							"applyTransformToMount": true,
+							"applyTransformToPlayer": true,
+							"weaponType": [
+								{
+									"value": "4"
+								},
+								{
+									"value": "5"
+								}
+							],
+							"action": "feign_death_Spear",
+							"transform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"mountTransform": {
+								"0": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": -80
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0,
+										"1": 0,
+										"2": 0
+									},
+									"rotation": {
+										"0": 0,
+										"1": 0,
+										"2": -80
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								}
+							},
+							"playerTransform": {
+								"0": {
+									"position": {
+										"0": 0.239,
+										"1": 0.104,
+										"2": -0.13
+									},
+									"rotation": {
+										"0": -90,
+										"1": 0,
+										"2": 90
+									},
+									"scale": {
+										"0": 1,
+										"1": 1,
+										"2": 1
+									}
+								},
+								"1": {
+									"position": {
+										"0": 0.216,
+										"1": 0.547,
+										"2": -0.303
+									},
+									"rotation": {
+										"0": -119.636,
+										"1": -1.612,
+										"2": 91.849
 									},
 									"scale": {
 										"0": 1,
