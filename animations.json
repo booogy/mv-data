@@ -15273,7 +15273,7 @@
 									"value": "11"
 								}
 							],
-							"action": "attack_wait_Bow",
+							"action": "eat1",
 							"transform": {
 								"0": {
 									"position": {
@@ -15530,7 +15530,7 @@
 									"value": "11"
 								}
 							],
-							"action": "walk_Bow",
+							"action": "eat3",
 							"transform": {
 								"0": {
 									"position": {
@@ -16160,7 +16160,7 @@
 									"value": "11"
 								}
 							],
-							"action": "hit_Bow",
+							"action": "eat_end1",
 							"transform": {
 								"0": {
 									"position": {
@@ -16417,7 +16417,7 @@
 									"value": "11"
 								}
 							],
-							"action": "hit_Bow",
+							"action": "eat_end1",
 							"transform": {
 								"0": {
 									"position": {
@@ -16674,7 +16674,7 @@
 									"value": "11"
 								}
 							],
-							"action": "die_Bow",
+							"action": "eat2",
 							"transform": {
 								"0": {
 									"position": {
@@ -16931,7 +16931,7 @@
 									"value": "11"
 								}
 							],
-							"action": "hit_Bow",
+							"action": "eat_end1",
 							"transform": {
 								"0": {
 									"position": {
@@ -17193,7 +17193,7 @@
 									"value": "31"
 								}
 							],
-							"action": "attack_Bow",
+							"action": "shooting",
 							"transform": {
 								"0": {
 									"position": {
