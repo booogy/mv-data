@@ -26813,7 +26813,7 @@
 							}
 						},
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
@@ -26826,8 +26826,7 @@
 								},
 								{
 									"value": "3"
-								},
-								{}
+								}
 							],
 							"action": "use_skill_Knife",
 							"transform": {
