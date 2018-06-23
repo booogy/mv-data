@@ -9411,7 +9411,7 @@
 							}
 						},
 						{
-							"hasShield": false,
+							"hasShield": true,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
