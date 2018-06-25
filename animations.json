@@ -31873,7 +31873,7 @@
 							}
 						},
 						{
-							"hasShield": true,
+							"hasShield": false,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
@@ -32368,7 +32368,7 @@
 							}
 						},
 						{
-							"hasShield": true,
+							"hasShield": false,
 							"hasMount": false,
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
