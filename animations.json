@@ -30895,8 +30895,7 @@
 								},
 								{
 									"value": "1"
-								},
-								{}
+								}
 							],
 							"action": "walk",
 							"transform": {
@@ -32848,7 +32847,7 @@
 									"value": "14"
 								}
 							],
-							"action": "hit_Staff",
+							"action": "hit_Spear",
 							"transform": {
 								"0": {
 									"position": {
@@ -33338,7 +33337,7 @@
 									"value": "14"
 								}
 							],
-							"action": "hit_Staff",
+							"action": "hit_Spear",
 							"transform": {
 								"0": {
 									"position": {
@@ -33463,7 +33462,7 @@
 									"value": "14"
 								}
 							],
-							"action": "attack_Staff",
+							"action": "attack_Spear",
 							"transform": {
 								"0": {
 									"position": {
@@ -33719,7 +33718,7 @@
 									"value": "14"
 								}
 							],
-							"action": "use_magic",
+							"action": "pose1",
 							"transform": {
 								"0": {
 									"position": {
@@ -33979,8 +33978,7 @@
 								},
 								{
 									"value": "1"
-								},
-								{}
+								}
 							],
 							"action": "walk",
 							"transform": {
