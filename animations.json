@@ -27472,8 +27472,7 @@
 								},
 								{
 									"value": "2"
-								},
-								{}
+								}
 							],
 							"action": "attack_wait_Knife",
 							"transform": {
