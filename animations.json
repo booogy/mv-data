@@ -7281,7 +7281,9 @@
 							"applyTransformToMount": false,
 							"applyTransformToPlayer": false,
 							"weaponType": [
-								{}
+								{
+									"value": "31"
+								}
 							],
 							"action": "walk",
 							"transform": {
@@ -9424,8 +9426,7 @@
 								},
 								{
 									"value": "3"
-								},
-								{}
+								}
 							],
 							"action": "use_skill_Knife",
 							"transform": {
